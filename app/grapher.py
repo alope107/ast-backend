@@ -1,3 +1,7 @@
+'''
+Adapted from https://github.com/pombredanne/python-ast-visualizer
+'''
+
 import ast
 import graphviz as gv
 import numbers
